@@ -1,12 +1,28 @@
 # QA Templates
 
-Templates QA réutilisables pour structurer les premières observations, les risques et les actions d'amélioration d'une équipe.
+Une collection évolutive de templates QA réutilisables pour structurer les pratiques qualité, identifier les risques et faciliter l'amélioration continue des équipes.
 
-## Template disponible
+Ce dépôt sera enrichi progressivement avec de nouveaux templates, exemples et supports pratiques. Le rapport d'étonnement QA est le premier template de la collection.
+
+## Templates disponibles
 
 - [Rapport d'étonnement QA](rapport-etonnement/README.md)
 
 Le rapport d'étonnement est conçu comme une session de test exploratoire appliquée à l'organisation : on capture le regard neuf des premières semaines avant que les habitudes ne rendent certains problèmes invisibles.
+
+## Templates à venir
+
+La collection pourra notamment accueillir :
+
+- une stratégie de test
+- une matrice de risques
+- un plan de test
+- une checklist de readiness avant mise en production
+- un modèle de bilan de campagne de test
+- une checklist d'automatisation
+- un modèle de rapport de bug
+
+Les nouveaux contenus seront ajoutés au fur et à mesure, en fonction des besoins rencontrés sur le terrain.
 
 ## Utilisation rapide
 

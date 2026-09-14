@@ -1,6 +1,8 @@
 # Rapport d'étonnement QA
 
-Un template pour documenter les premières observations d'une mission QA, faire émerger les risques et prioriser des améliorations concrètes.
+Le premier template de la collection [QA Templates](../README.md).
+
+Il permet de documenter les premières observations d'une mission QA, de faire émerger les risques et de prioriser des améliorations concrètes. D'autres templates QA seront ajoutés progressivement dans le dépôt.
 
 ## Comment l'utiliser
 
